@@ -39,13 +39,7 @@ click the Island object and you will see a bar with changable settings:
 ## Examples
 
 
-| Generated island with high moisture | 
-| :------------- |
-| <img src="./images/island1.png" width=500px/> |
-| **Evaluation Results**: <ul><li>Max Score: 0.86 Number of Components: 3</li><li>Coastline Beach Coverage: 0.80 Beach Score: 0.86</li><li>Mountain Cover Percentage: 0.18 Mountain Score: 0.83</li><li>Lowland Cover Percentage: 0.48 Lowland Score: 0.64 </li></ul>|
-
-| Generated island with high moisture | 
-| :------------- |
-| <img src="./images/island2.png" width=500px/> |
-| **Evaluation Results**: <ul><li>Max Score: 0.95 Number of Components: 1</li><li>Coastline Beach Coverage: 0.76 Beach Score: 0.72</li><li>Mountain Cover Percentage: 0.16 Mountain Score: 0.95</li><li>Lowland Cover Percentage: 0.42 Lowland Score: 0.45</li></ul>|
-
+| Generated island with high moisture | Generated island with high moisture | 
+| :------------- | :------------- |
+| <img src="./images/island1.png" width=500px/> | <img src="./images/island2.png" width=500px/> |
+| **Evaluation Results**: <ul><li>Max Score: 0.86 Number of Components: 3</li><li>Coastline Beach Coverage: 0.80 Beach Score: 0.86</li><li>Mountain Cover Percentage: 0.18 Mountain Score: 0.83</li><li>Lowland Cover Percentage: 0.48 Lowland Score: 0.64 </li></ul>| **Evaluation Results**: <ul><li>Max Score: 0.95 Number of Components: 1</li><li>Coastline Beach Coverage: 0.76 Beach Score: 0.72</li><li>Mountain Cover Percentage: 0.16 Mountain Score: 0.95</li><li>Lowland Cover Percentage: 0.42 Lowland Score: 0.45</li></ul>|
