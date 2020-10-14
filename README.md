@@ -3,6 +3,8 @@
 The proposed method is based on the construction of Voronoi diagrams combined with Delaunay triangulation. 
 This method helps to produce less number of separated lands compared to simple noise-based algorithms.
 
+More information is available in the project [report](./report/PCG_Project_Report.pdf).
+
 # Method
 
 The method is first proposed by [A. Patel (2010)](http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/) who used the graph structure to model maps by gameplay constraints like elevation, river flow and etc., with noise functions for coastline shapes, river, and tree placement. 
@@ -41,5 +43,11 @@ click the Island object and you will see a bar with changable settings:
 
 | Generated island with high moisture | Generated island with high moisture | 
 | :------------- | :------------- |
-| <img src="./images/island1.png" width=500px/> | <img src="./images/island2.png" width=500px/> |
+| <img src="./images/island1.png" width=500px height=400px/> | <img src="./images/island2.png" width=500px height=400px/> |
 | **Evaluation Results**: <ul><li>Max Score: 0.86 Number of Components: 3</li><li>Coastline Beach Coverage: 0.80 Beach Score: 0.86</li><li>Mountain Cover Percentage: 0.18 Mountain Score: 0.83</li><li>Lowland Cover Percentage: 0.48 Lowland Score: 0.64 </li></ul>| **Evaluation Results**: <ul><li>Max Score: 0.95 Number of Components: 1</li><li>Coastline Beach Coverage: 0.76 Beach Score: 0.72</li><li>Mountain Cover Percentage: 0.16 Mountain Score: 0.95</li><li>Lowland Cover Percentage: 0.42 Lowland Score: 0.45</li></ul>|
+
+## References
+
+1. Lague, S. (2017). Procedural Landmass Generation. Accessed at https://github.com/SebLague/Procedural-Landmass-Generation.
+2. jceipek. Unity-delaunay. Accessed at https://github.com/jceipek/Unity-delaunay.
+
