@@ -31,19 +31,21 @@ Open the scene `/Asset/Scenes/project.unity` and press **Run** button.
 In case you want to change the default parameters of the island generation, 
 click the Island object and you will see a bar with changable settings:
 
-![Settings](./images/settings.png)
-<center><img src="./images/settings.png"></center>
+
+<p align="center">
+  <img src="./images/settings.png">
+</p>
 
 ## Examples
 
 
 | Generated island with high moisture | 
 | :------------- |
-| ![](./images/island1.png) |  |
+| <img src="./images/island1.png" width=500px/> |
 | **Evaluation Results**: <ul><li>Max Score: 0.86 Number of Components: 3</li><li>Coastline Beach Coverage: 0.80 Beach Score: 0.86</li><li>Mountain Cover Percentage: 0.18 Mountain Score: 0.83</li><li>Lowland Cover Percentage: 0.48 Lowland Score: 0.64 </li></ul>|
 
 | Generated island with high moisture | 
 | :------------- |
-| <img src="./images/island2.png" width=200/> ![](./images/island2.png) |  |
+| <img src="./images/island2.png" width=500px/> |
 | **Evaluation Results**: <ul><li>Max Score: 0.95 Number of Components: 1</li><li>Coastline Beach Coverage: 0.76 Beach Score: 0.72</li><li>Mountain Cover Percentage: 0.16 Mountain Score: 0.95</li><li>Lowland Cover Percentage: 0.42 Lowland Score: 0.45</li></ul>|
 
