@@ -1,0 +1,20 @@
+public enum NodeType
+{
+    FreshWater,
+    SaltWater,
+    Beach,
+    Error,
+    Snow,
+    Tundra,
+    Bare,
+    Scorched,
+    Taiga,
+    Shrubland,
+    TemperateDesert,
+    TemperateRainForest,
+    TemperateDeciduousForest,
+    Grassland,
+    TropicalRainForest,
+    TropicalSeasonalForest,
+    SubtropicalDesert
+}
