@@ -31,7 +31,7 @@ Open the scene `/Asset/Scenes/project.unity` and press **Run** button.
 ### Change parameters
 
 In case you want to change the default parameters of the island generation, 
-click the Island object and you will see a bar with changable settings:
+click the Island object and you will see a bar with changeable settings:
 
 
 <p align="center">
